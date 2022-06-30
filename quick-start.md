@@ -10,8 +10,3 @@ To make our first request, we’ll need to authenticate first. Our Nextzen AMS A
 **Example Auth API Key: \[**ZHdfv6GYuNq0sezBpQ**….]**
 
 Nextzen AMS API Version 1.0 utilizes response codes to indicate successful and failed API requests.
-
-{% hint style="info" %}
-We recommend you use Postman for convenience. Every endpoint has an example request ready to be requested by you. Hit the button below to import our Cricket API collection.\
-[​![](https://run.pstmn.io/button.svg)​](https://documenter.getpostman.com/view/13066863/Uz5CLdUZ)
-{% endhint %}
