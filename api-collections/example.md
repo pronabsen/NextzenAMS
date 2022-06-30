@@ -9,20 +9,6 @@ description: >-
 
 Following [https://amsapi.nextzen.com.bd/api/v1/data](https://amsapi.nextzen.com.bd/api/v1/data).  See Below for an Example Parameter:&#x20;
 
-{% code title="Method - log" %}
-```json
-{
-    "request_type":"log", 
-    "api_key":"ZHdfv6GYuNq0sezBpQob9vbGqVtZWZ",
-    "start_date":"2022-04-04",
-    "end_date":"2022-8-29",
-    "start_time":"05:49:09",
-    "end_time":"05:49:09",
-    "access_id":"11301000"
-}
-```
-{% endcode %}
-
 {% code title="Method - add_employee" %}
 ```json
 {
@@ -99,6 +85,20 @@ Following [https://amsapi.nextzen.com.bd/api/v1/data](https://amsapi.nextzen.com
     "request_type":"set_employee_registration_mode", 
     "api_key":"ZHdfv6GYuNq0sezBpQob9vbGqVtZWZ",
     "device_id":"EM111111"
+}
+```
+{% endcode %}
+
+{% code title="Method - log" %}
+```json
+{
+    "request_type":"log", 
+    "api_key":"ZHdfv6GYuNq0sezBpQob9vbGqVtZWZ",
+    "start_date":"2022-04-04",
+    "end_date":"2022-8-29",
+    "start_time":"05:49:09",
+    "end_time":"05:49:09",
+    "access_id":"11301000"
 }
 ```
 {% endcode %}
